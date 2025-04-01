@@ -1,3 +1,5 @@
+My GitHub https://github.com/Naledi77/Assignment-1.git
+My YouTube https://youtube.com/shorts/AxVHNJYrMXU?feature=share
 # Assignment-1
 NutriPlan: Your Personalized Daily Meal Companion
 NutriPlan is an app that helps you with meal planning,it delivers personalized,delicious,and nutritious meal suggestions right to your fingertips,every single day. You get to recieve a customized set of breakfast,brunch,lunch;snacks;dinner and dessert tailored to your dietary needs and preference.NutriPlan is more than just a meal planner;it's your personal nutritionist in your pocket, empowering you to make healthier choices and enjoy delicious meals everyday.Download NutriPlan and start on a journey to a healtheir,happier you!!! 
